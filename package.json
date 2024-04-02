@@ -1,0 +1,27 @@
+{
+  "name": "zed-theme",
+  "displayName": "Zed Theme",
+  "description": "Default theme of the Zed code editor",
+  "version": "0.0.1",
+  "publisher": "solidhelium",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//vscode-ayu"
+  },
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zed Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Zed Theme-color-theme.json"
+      }
+    ]
+  }
+}
