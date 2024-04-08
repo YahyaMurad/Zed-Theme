@@ -2004,7 +2004,7 @@
     "editorLineNumber.foreground": "#1051d05d",
     "editorLineNumber.activeForeground": "#1051d0",
     "quickInputList.focusBackground": "#1051d05d",
-	"terminalCursor.background": "#ffffff",
-	"terminalCursor.foreground": "#1051d05d"
+    "terminalCursor.background": "#ffffff",
+    "terminalCursor.foreground": "#1051d05d"
   }
 }
